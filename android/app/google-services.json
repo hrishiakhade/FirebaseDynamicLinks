@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16850989006",
+    "project_id": "fir-dynamic-links-8f66b",
+    "storage_bucket": "fir-dynamic-links-8f66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16850989006:android:6b746208bb1f2d1414459f",
+        "android_client_info": {
+          "package_name": "com.firebasedynamiclinks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHd-sHln24WtY00_t2ddSrWU-SZ-8XSrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
